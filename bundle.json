@@ -1,0 +1,4 @@
+{
+  "edgeworker-version": "0.1",
+  "description": "Block requests by email using an in-code blocklist"
+}
